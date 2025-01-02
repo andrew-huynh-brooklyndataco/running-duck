@@ -13,8 +13,8 @@ For the Ultra Marathon I spliced [relentlessforwardcommotion](https://relentless
 
 ## Setup
 1. Read the book 80/20 Running by Matt Fitzgerald. If you don't read the book you won't understand running descriptions and methodology.
-2. Get `pipx` (instructions [here](https://pipx.pypa.io/stable/installation/))
-3. Install duckdb `pipx install duckdb`
+2. Create a [virtual python environment](https://github.com/pyenv/pyenv) and activate it.
+3. Install duckdb `pip install duckdb`
 
 ## Set your parameters
 You will need to set your parameters in in `duck_run.py`
