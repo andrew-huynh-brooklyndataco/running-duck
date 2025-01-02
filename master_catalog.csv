@@ -1,0 +1,237 @@
+Race_Distance,Level,Week,Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday
+5k,1,1,REST,Foundation Run 1,Active Recovery,Speed Play Run 1,Active Recovery,Foundation Run 2,Active Recovery
+5k,1,2,REST,Fast Finish Run 1,Foundation Run 2,Foundation Run 2,Speed Play Run 2,Foundation Run 2,Foundation Run 3
+5k,1,3,REST,Fast Finish Run 1,Foundation Run 2,Foundation Run 2,Speed Play Run 1,Foundation Run 2,Foundation Run 3
+5k,1,4,REST,Speed Play Run 2,Foundation Run 3,Foundation Run 3,Hill Repetition Run 1,Recovery Run 3,Fast Finish Run 2
+5k,1,5,REST,Speed Play Run 3,Foundation Run 4,Foundation Run 4,Hill Repetition Run 2,Recovery Run 4,Fast Finish Run 3
+5k,1,6,REST,Speed Play Run 2,Foundation Run 3,Foundation Run 3,Hill Repetition Run 1,Recovery Run 3,Fast Finish Run 2
+5k,1,7,REST,Speed Play Run 4,Recovery Run 4,Foundation Run 4,Long Interval Run 1,Recovery Run 4,Fast Finish Run 4
+5k,1,8,REST,Speed Play Run 5,Recovery Run 5,Foundation Run 5,Long Interval Run 2,Recovery Run 5,Fast Finish Run 5
+5k,1,9,REST,Long Interval Run 1,Recovery Run 3,Foundation Run 3,Speed Play Run 1,Recovery Run 1,5K Race
+5k,2,1,Foundation Run 5,Speed Play Run 3,Foundation Run 5,Foundation Run 5,Hill Repetition Run 2,Recovery Run 5,Long Run 1
+5k,2,2,Foundation Run 5,Speed Play Run 5,Foundation Run 6,Foundation Run 5,Hill Repetition Run 4,Recovery Run 5,Long Run 2
+5k,2,3,REST,Speed Play Run 3,Foundation Run 6,Foundation Run 5,Hill Repetition Run 3,Recovery Run 6,Long Run 1
+5k,2,4,Foundation Run 6,Long Interval Run 1,Recovery Run 6,Foundation Run 6,Short Interval Run 4,Recovery Run 6,Fast Finish Run 7
+5k,2,5,Recovery Run 6,Long Interval Run 2,Recovery Run 6,Foundation Run 7,Short Interval Run 5,Recovery Run 6,Fast Finish Run 8
+5k,2,6,REST,Long Interval Run 1,Recovery Run 5,Foundation Run 6,Short Interval Run 2,Recovery Run 5,Fast Finish Run 6
+5k,2,7,Recovery Run 6,Short Interval Run 3,Recovery Run 6,Foundation Run 8,Long Interval Run 6,Recovery Run 6,Fast Finish Run 9
+5k,2,8,Recovery Run 6,Short Interval Run 2,Recovery Run 6,Foundation Run 9,Long Interval Run 7,Recovery Run 6,Fast Finish Run 10
+5k,2,9,REST,Long Interval Run 2,Recovery Run 4,Foundation Run 3,Speed Play Run 2,Recovery Run 2,5K Race
+5k,3,1,Foundation Run 6,Speed Play Run 5,Foundation Run 6,Foundation Run 6,Hill Repetition Run 4,Recovery Run 6,Long Run 2
+5k,3,1,,Foundation Run 4,,,,,
+5k,3,2,Foundation Run 6,Speed Play Run 10,Foundation Run 6,Foundation Run 6,Hill Repetition Run 5,Recovery Run 6,Long Run 3
+5k,3,2,,Foundation Run 4,,Foundation Run 4,,,
+5k,3,3,REST,Speed Play Run 7,Foundation Run 6,Foundation Run 6,Hill Repetition Run 3,Recovery Run 6,Long Run 2
+5k,3,3,,Foundation Run 6,,,,,
+5k,3,4,Foundation Run 6,Long Interval Run 2,Foundation Run 6,Foundation Run 6,Short Interval Run 7,Recovery Run 6,Tempo Run 6
+5k,3,4,,Recovery Run 5,,Foundation Run 5,,Foundation Run 5,
+5k,3,5,Recovery Run 6,Long Interval Run 4,Foundation Run 6,Foundation Run 6,Short Interval Run 8,Recovery Run 6,Tempo Run 7
+5k,3,5,,Recovery Run 6,,Foundation Run 6,,Foundation Run 6,
+5k,3,6,REST,Long Interval Run 2,Foundation Run 6,Foundation Run 6,Short Interval Run 5,Recovery Run 6,Tempo Run 4
+5k,3,6,,Recovery Run 5,,Foundation Run 5,,Foundation Run 5,
+5k,3,7,Recovery Run 6,Short Interval Run 4,Foundation Run 6,Foundation Run 6,Long Interval Run 9,Recovery Run 6,Fast Finish Run 10
+5k,3,7,,Recovery Run 6,,Foundation Run 6,,Foundation Run 6,
+5k,3,8,Recovery Run 6,Short Interval Run 3,Foundation Run 6,Foundation Run 6,Long Interval Run 8,Recovery Run 6,Fast Finish Run 8
+5k,3,8,,Recovery Run 5,,Foundation Run 5,,Foundation Run 5,
+5k,3,9,REST,Long Interval Run 4,Recovery Run 5,Foundation Run 4,Speed Play Run 2,Recovery Run 3,5K Race
+10k,1,1,REST,Fast Finish Run 1,Foundation Run 2,Foundation Run 2,Speed Play Run 1,Foundation Run 2,Foundation Run 3
+10k,1,2,REST,Fast Finish Run 2,Foundation Run 3,Foundation Run 2,Speed Play Run 2,Foundation Run 2,Foundation Run 4
+10k,1,3,REST,Fast Finish Run 1,Foundation Run 2,Foundation Run 2,Speed Play Run 1,Foundation Run 2,Foundation Run 3
+10k,1,4,REST,Fast Finish Run 3,Foundation Run 3,Foundation Run 2,Hill Repetition Run 1,Recovery Run 3,Foundation Run 5
+10k,1,5,REST,Fast Finish Run 3,Foundation Run 3,Foundation Run 3,Hill Repetition Run 2,Recovery Run 3,Foundation Run 6
+10k,1,6,REST,Fast Finish Run 2,Foundation Run 2,Foundation Run 2,Hill Repetition Run 1,Recovery Run 3,Foundation Run 5
+10k,1,7,REST,Speed Play Run 3,Foundation Run 3,Foundation Run 4,Short Interval Run 1,Recovery Run 3,Foundation Run 5
+10k,1,8,REST,Speed Play Run 5,Foundation Run 3,Foundation Run 4,Short Interval Run 2,Recovery Run 4,Foundation Run 6
+10k,1,9,REST,Long Interval Run 1,Foundation Run 3,Foundation Run 4,Speed Play Run 2,Recovery Run 3,Fast Finish Run 2
+10k,1,10,REST,Long Interval Run 2,Foundation Run 4,Foundation Run 4,Mixed Interval Run 2,Recovery Run 4,Foundation Run 7
+10k,1,11,REST,Long Interval Run 4,Foundation Run 4,Foundation Run 3,Mixed Interval Run 1,Foundation Run 3,Foundation Run 6
+10k,1,12,REST,Speed Play Run 2,Foundation Run 3,Foundation Run 2,Fast Finish Run 1,Recovery Run 1,10K Race
+10k,2,1,Foundation Run 5,Fast Finish Run 4,Foundation Run 5,Foundation Run 5,Speed Play Run 4,Foundation Run 5,Long Run 1
+10k,2,2,Foundation Run 5,Fast Finish Run 5,Foundation Run 6,Foundation Run 5,Speed Play Run 5,Foundation Run 5,Long Run 2
+10k,2,3,REST,Fast Finish Run 4,Foundation Run 5,Foundation Run 6,Speed Play Run 4,Foundation Run 5,Long Run 1
+10k,2,4,Foundation Run 5,Fast Finish Run 7,Foundation Run 6,Foundation Run 5,Hill Repetition Run 5,Recovery Run 6,Long Run 3
+10k,2,5,Recovery Run 5,Fast Finish Run 8,Foundation Run 6,Foundation Run 6,Hill Repetition Run 6,Recovery Run 6,Long Run 4
+10k,2,6,REST,Fast Finish Run 5,Foundation Run 6,Foundation Run 6,Hill Repetition Run 3,Recovery Run 6,Long Run 2
+10k,2,7,Foundation Run 6,Speed Play Run 7,Foundation Run 6,Foundation Run 6,Short Interval Run 4,Recovery Run 6,Fast Finish Run 9
+10k,2,8,Recovery Run 6,Speed Play Run 10,Foundation Run 7,Foundation Run 6,Short Interval Run 5,Recovery Run 7,Fast Finish Run 10
+10k,2,9,REST,Long Interval Run 2,Foundation Run 6,Foundation Run 5,Speed Play Run 6,Recovery Run 6,Fast Finish Run 7
+10k,2,10,Foundation Run 6,Long Interval Run 4,Foundation Run 7,Foundation Run 6,Mixed Interval Run 3,Recovery Run 7,Long Run with Speed Play 1
+10k,2,11,Recovery Run 5,Long Interval Run 3,Foundation Run 5,Foundation Run 5,Mixed Interval Run 1,Foundation Run 4,Fast Finish Run 7
+10k,2,12,REST,Speed Play Run 5,Foundation Run 4,Foundation Run 3,Fast Finish Run 3,Recovery Run 2,10K Race
+10k,3,1,Foundation Run 6,Fast Finish Run 4,Foundation Run 6,Foundation Run 6,Speed Play Run 6,Foundation Run 6,Long Run 2
+10k,3,1,,Foundation Run 3,,,,,
+10k,3,2,Foundation Run 6,Fast Finish Run 5,Foundation Run 6,Foundation Run 6,Speed Play Run 7,Foundation Run 6,Long Run 3
+10k,3,2,,Foundation Run 3,,Foundation Run 3,,,
+10k,3,3,REST,Fast Finish Run 4,Foundation Run 6,Foundation Run 6,Speed Play Run 6,Foundation Run 5,Long Run 4
+10k,3,3,,Foundation Run 5,,,,,
+10k,3,4,Foundation Run 6,Tempo Run 2,Foundation Run 6,Foundation Run 6,Hill Repetition Run 4,Recovery Run 6,Long Run with Fast Finish 1
+10k,3,4,,Foundation Run 3,,Foundation Run 3,,Foundation Run 3,
+10k,3,5,Recovery Run 6,Tempo Run 3,Foundation Run 6,Foundation Run 6,Hill Repetition Run 5,Recovery Run 6,Long Run with Fast Finish 2
+10k,3,5,,Recovery Run 4,,Foundation Run 4,,Foundation Run 4,
+10k,3,6,REST,Tempo Run 2,Foundation Run 6,Foundation Run 6,Hill Repetition Run 3,Recovery Run 6,Fast Finish Run 9
+10k,3,6,,Recovery Run 4,,Foundation Run 4,,Foundation Run 4,
+10k,3,7,Foundation Run 6,Speed Play Run 10,Foundation Run 6,Foundation Run 6,Short Interval Run 7,Recovery Run 6,Long Run with Speed Play 1
+10k,3,7,,Recovery Run 5,,Foundation Run 5,,Foundation Run 5,
+10k,3,8,Recovery Run 6,Speed Play Run 12,Foundation Run 6,Foundation Run 6,Short Interval Run 8,Recovery Run 6,Long Run with Speed Play 2
+10k,3,8,,Recovery Run 6,,Foundation Run 6,,Foundation Run 6,
+10k,3,9,REST,Long Interval Run 4,Foundation Run 5,Foundation Run 5,Speed Play Run 8,Recovery Run 5,Fast Finish Run 10
+10k,3,9,,Recovery Run 5,,Foundation Run 5,,Foundation Run 5,
+10k,3,10,Foundation Run 6,Long Interval Run 7,Foundation Run 6,Foundation Run 6,Mixed Interval Run 4,Recovery Run 6,Long Run with Speed Play 2
+10k,3,10,,Recovery Run 6,,Foundation Run 6,,Foundation Run 6,
+10k,3,11,Recovery Run 5,Long Interval Run 5,Foundation Run 5,Foundation Run 5,Mixed Interval Run 3,Foundation Run 9,Long Run with Speed Play 1
+10k,3,11,,Recovery Run 5,,Foundation Run 5,,,
+10k,3,12,REST,Speed Play Run 5,Foundation Run 4,Foundation Run 3,Fast Finish Run 3,Recovery Run 2,10K Race
+Half Marathon,1,1,REST,Fast Finish Run 1,Foundation Run 2,Foundation Run 2,Speed Play Run 2,Foundation Run 2,Long Run 1
+Half Marathon,1,2,REST,Fast Finish Run 2,Foundation Run 3,Foundation Run 2,Speed Play Run 1,Foundation Run 2,Long Run 2
+Half Marathon,1,3,REST,Fast Finish Run 1,Foundation Run 2,Foundation Run 2,Speed Play Run 2,Foundation Run 2,Long Run 1
+Half Marathon,1,4,REST,Fast Finish Run 3,Foundation Run 3,Foundation Run 2,Hill Repetition Run 2,Recovery Run 3,Long Run 3
+Half Marathon,1,5,REST,Fast Finish Run 4,Foundation Run 3,Foundation Run 3,Hill Repetition Run 4,Recovery Run 3,Long Run 4
+Half Marathon,1,6,REST,Fast Finish Run 2,Foundation Run 2,Foundation Run 3,Hill Repetition Run 3,Recovery Run 3,Long Run 2
+Half Marathon,1,7,REST,Tempo Run 1,Recovery Run 3,Foundation Run 4,Short Interval Run 2,Recovery Run 3,Long Run 5
+Half Marathon,1,8,REST,Cruise Interval Run 1,Recovery Run 4,Foundation Run 4,Short Interval Run 3,Recovery Run 3,Long Run 6
+Half Marathon,1,9,REST,Tempo Run 1,Recovery Run 3,Foundation Run 3,Short Interval Run 2,Recovery Run 3,Long Run 3
+Half Marathon,1,10,REST,Tempo Run 3,Recovery Run 4,Foundation Run 4,Long Interval Run 2,Recovery Run 4,Long Run with Speed Play 1
+Half Marathon,1,11,REST,Tempo Run 4,Recovery Run 4,Foundation Run 5,Long Interval Run 4,Recovery Run 4,Long Run with Fast Finish 1
+Half Marathon,1,12,REST,Tempo Run 2,Recovery Run 4,Foundation Run 4,Long Interval Run 3,Recovery Run 4,Long Run 3
+Half Marathon,1,13,REST,Tempo Run 5,Recovery Run 4,Foundation Run 5,Mixed Interval Run 1,Recovery Run 5,Long Run with Fast Finish 2
+Half Marathon,1,14,REST,Tempo Run 6,Recovery Run 5,Foundation Run 5,Mixed Interval Run 1,Recovery Run 5,Long Run with Fast Finish 1
+Half Marathon,1,15,REST,Fast Finish Run 3,Foundation Run 3,Foundation Run 2,Speed Play Run 1,Recovery Run 1,Half Marathon
+Half Marathon,2,1,Foundation Run 5,Fast Finish Run 3,Foundation Run 5,Foundation Run 5,Speed Play Run 4,Foundation Run 5,Long Run 2
+Half Marathon,2,2,Foundation Run 5,Fast Finish Run 4,Foundation Run 6,Foundation Run 5,Speed Play Run 5,Foundation Run 5,Long Run 3
+Half Marathon,2,3,REST,Fast Finish Run 3,Foundation Run 5,Foundation Run 5,Speed Play Run 4,Foundation Run 5,Long Run 1
+Half Marathon,2,4,Foundation Run 5,Fast Finish Run 4,Recovery Run 6,Foundation Run 6,Hill Repetition Run 5,Recovery Run 5,Long Run 5
+Half Marathon,2,5,Foundation Run 5,Fast Finish Run 5,Recovery Run 6,Foundation Run 6,Hill Repetition Run 6,Recovery Run 6,Long Run 7
+Half Marathon,2,6,REST,Fast Finish Run 4,Recovery Run 5,Foundation Run 5,Hill Repetition Run 4,Recovery Run 5,Long Run 3
+Half Marathon,2,7,Foundation Run 6,Cruise Interval Run 1,Recovery Run 6,Foundation Run 6,Short Interval Run 4,Recovery Run 6,Long Run with Speed Play 1
+Half Marathon,2,8,Recovery Run 6,Tempo Run 4,Recovery Run 6,Foundation Run 6,Short Interval Run 5,Recovery Run 6,Long Run with Speed Play 2
+Half Marathon,2,9,REST,Cruise Interval Run 1,Recovery Run 5,Foundation Run 6,Short Interval Run 3,Recovery Run 5,Long Run with Fast Finish 1
+Half Marathon,2,10,Foundation Run 6,Tempo Run 5,Recovery Run 6,Foundation Run 6,Long Interval Run 3,Recovery Run 6,Long Run with Speed Play 2
+Half Marathon,2,11,Recovery Run 6,Cruise Interval Run 2,Recovery Run 6,Foundation Run 6,Long Interval Run 6,Recovery Run 6,Long Run with Fast Finish 2
+Half Marathon,2,12,REST,Tempo Run 4,Recovery Run 5,Foundation Run 6,Long Interval Run 3,Recovery Run 5,Long Run with Speed Play 1
+Half Marathon,2,13,Foundation Run 6,Tempo Run 7,Recovery Run 6,Foundation Run 6,Mixed Interval Run 2,Recovery Run 6,Long Run with Fast Finish 3
+Half Marathon,2,14,Recovery Run 5,Tempo Run 5,Recovery Run 5,Foundation Run 4,Mixed Interval Run 2,Recovery Run 4,Long Run with Speed Play 1
+Half Marathon,2,15,REST,Fast Finish Run 5,Foundation Run 4,Foundation Run 3,Speed Play Run 2,Recovery Run 2,Half Marathon
+Half Marathon,3,1,Foundation Run 6,Fast Finish Run 6,Foundation Run 6,Foundation Run 6,Speed Play Run 8,Foundation Run 6,Long Run 3
+Half Marathon,3,1,,Foundation Run 3,,,,,
+Half Marathon,3,2,Foundation Run 6,Fast Finish Run 7,Foundation Run 7,Foundation Run 6,Speed Play Run 10,Foundation Run 6,Long Run 5
+Half Marathon,3,2,,Foundation Run 3,,Foundation Run 3,,,
+Half Marathon,3,3,REST,Fast Finish Run 6,Foundation Run 6,Foundation Run 6,Speed Play Run 8,Foundation Run 6,Long Run 3
+Half Marathon,3,3,,Foundation Run 3,,,,,
+Half Marathon,3,4,Foundation Run 6,Fast Finish Run 8,Foundation Run 8,Foundation Run 6,Hill Repetition Run 7,Recovery Run 6,Long Run 7
+Half Marathon,3,4,,Foundation Run 4,,Foundation Run 4,,Foundation Run 4,
+Half Marathon,3,5,Foundation Run 6,Fast Finish Run 9,Foundation Run 8,Foundation Run 6,Hill Repetition Run 8,Recovery Run 6,Long Run 9
+Half Marathon,3,5,,Foundation Run 5,,Foundation Run 4,,Foundation Run 4,
+Half Marathon,3,6,REST,Fast Finish Run 7,Foundation Run 6,Foundation Run 6,Hill Repetition Run 6,Recovery Run 6,Long Run 4
+Half Marathon,3,6,,Foundation Run 4,,Foundation Run 4,,Foundation Run 4,
+Half Marathon,3,7,Foundation Run 6,Cruise Interval Run 2,Foundation Run 9,Foundation Run 6,Short Interval Run 6,Recovery Run 6,Long Run with Speed Play 1
+Half Marathon,3,7,,Foundation Run 5,,Foundation Run 5,,Foundation Run 5,
+Half Marathon,3,8,Foundation Run 6,Tempo Run 6,Foundation Run 9,Foundation Run 6,Short Interval Run 7,Recovery Run 6,Long Run with Speed Play 2
+Half Marathon,3,8,,Foundation Run 6,,Foundation Run 6,,Foundation Run 6,
+Half Marathon,3,9,REST,Cruise Interval Run 1,Foundation Run 6,Foundation Run 5,Short Interval Run 4,Recovery Run 5,Long Run with Speed Play 1
+Half Marathon,3,9,,Foundation Run 5,,Foundation Run 5,,Foundation Run 5,
+Half Marathon,3,10,Foundation Run 6,Tempo Run 8,Foundation Run 9,Foundation Run 6,Long Interval Run 7,Recovery Run 6,Long Run with Speed Play 3
+Half Marathon,3,10,,Recovery Run 6,,Recovery Run 6,,Recovery Run 6,
+Half Marathon,3,11,Recovery Run 6,Cruise Interval Run 3,Foundation Run 9,Foundation Run 6,Long Interval Run 8,Recovery Run 6,Long Run with Speed Play 3
+Half Marathon,3,11,,Recovery Run 6,,Recovery Run 6,,Recovery Run 6,
+Half Marathon,3,12,REST,Cruise Interval Run 2,Foundation Run 6,Foundation Run 5,Long Interval Run 3,Recovery Run 5,Long Run with Fast Finish 1
+Half Marathon,3,12,,Recovery Run 5,,Recovery Run 5,,Recovery Run 5,
+Half Marathon,3,13,Recovery Run 6,Tempo Run 9,Foundation Run 9,Foundation Run 6,Mixed Interval Run 4,Recovery Run 6,Long Run with Fast Finish 4
+Half Marathon,3,13,,Recovery Run 6,,Recovery Run 6,,Recovery Run 6,
+Half Marathon,3,14,Recovery Run 5,Tempo Run 6,Foundation Run 5,Foundation Run 5,Mixed Interval Run 2,Recovery Run 4,Long Run with Speed Play 1
+Half Marathon,3,14,,Recovery Run 5,,Recovery Run 4,,Recovery Run 4,
+Half Marathon,3,15,REST,Fast Finish Run 6,Foundation Run 5,Foundation Run 4,Speed Play Run 5,Recovery Run 2,Half Marathon
+Marathon,1,1,REST,Fast Finish Run 2,Foundation Run 3,Foundation Run 3,Speed Play Run 1,Foundation Run 3,Long Run 1
+Marathon,1,2,REST,Fast Finish Run 3,Foundation Run 4,Foundation Run 3,Speed Play Run 2,Foundation Run 3,Long Run 2
+Marathon,1,3,REST,Fast Finish Run 2,Foundation Run 3,Foundation Run 3,Speed Play Run 1,Foundation Run 3,Long Run 1
+Marathon,1,4,REST,Fast Finish Run 4,Foundation Run 4,Foundation Run 3,Hill Repetition Run 1,Recovery Run 4,Long Run 3
+Marathon,1,5,REST,Fast Finish Run 6,Foundation Run 4,Foundation Run 4,Hill Repetition Run 2,Recovery Run 4,Long Run 4
+Marathon,1,6,REST,Fast Finish Run 4,Foundation Run 3,Foundation Run 4,Hill Repetition Run 1,Recovery Run 3,Long Run 2
+Marathon,1,7,REST,Fast Finish Run 7,Foundation Run 5,Foundation Run 4,Hill Repetition Run 4,Recovery Run 4,Long Run 5
+Marathon,1,8,REST,Fast Finish Run 8,Foundation Run 5,Foundation Run 5,Hill Repetition Run 6,Recovery Run 4,Long Run 7
+Marathon,1,9,REST,Fast Finish Run 6,Foundation Run 4,Foundation Run 4,Hill Repetition Run 4,Recovery Run 4,Long Run 4
+Marathon,1,10,REST,Tempo Run 2,Recovery Run 5,Foundation Run 5,Short Interval Run 1,Recovery Run 4,Long Run 9
+Marathon,1,11,REST,Cruise Interval Run 1,Recovery Run 5,Foundation Run 5,Short Interval Run 2,Recovery Run 5,Long Run 11
+Marathon,1,12,REST,Tempo Run 2,Recovery Run 4,Foundation Run 5,Short Interval Run 1,Recovery Run 4,Long Run with Speed Play 1
+Marathon,1,13,REST,Tempo Run 3,Recovery Run 5,Foundation Run 6,Long Interval Run 2,Recovery Run 5,Long Run with Fast Finish 1
+Marathon,1,14,REST,Tempo Run 4,Recovery Run 6,Foundation Run 6,Long Interval Run 3,Recovery Run 5,Long Run with Speed Play 2
+Marathon,1,15,REST,Tempo Run 2,Recovery Run 5,Foundation Run 5,Long Interval Run 1,Recovery Run 5,Marathon Simulator Run
+Marathon,1,16,REST,Cruise Interval Run 2,Recovery Run 6,Foundation Run 6,Mixed Interval Run 1,Recovery Run 6,Long Run with Fast Finish 5
+Marathon,1,17,REST,Tempo Run 4,Foundation Run 5,Foundation Run 5,Mixed Interval Run 1,Recovery Run 4,Long Run with Speed Play 2
+Marathon,1,18,REST,Fast Finish Run 4,Foundation Run 4,Foundation Run 3,Speed Play Run 2,Recovery Run 1,Marathon
+Marathon,2,1,Foundation Run 5,Fast Finish Run 4,Foundation Run 5,Foundation Run 5,Speed Play Run 4,Foundation Run 5,Long Run 3
+Marathon,2,2,Foundation Run 5,Fast Finish Run 6,Foundation Run 5,Foundation Run 5,Speed Play Run 5,Foundation Run 5,Long Run 4
+Marathon,2,3,REST,Fast Finish Run 4,Foundation Run 5,Foundation Run 4,Speed Play Run 4,Foundation Run 5,Long Run 2
+Marathon,2,4,Foundation Run 5,Fast Finish Run 6,Foundation Run 5,Foundation Run 5,Hill Repetition Run 4,Recovery Run 5,Long Run 5
+Marathon,2,5,Foundation Run 5,Fast Finish Run 7,Foundation Run 6,Foundation Run 5,Hill Repetition Run 5,Recovery Run 5,Long Run 7
+Marathon,2,6,REST,Fast Finish Run 6,Foundation Run 5,Foundation Run 5,Hill Repetition Run 4,Recovery Run 5,Long Run 3
+Marathon,2,7,Foundation Run 5,Fast Finish Run 8,Foundation Run 6,Foundation Run 5,Hill Repetition Run 6,Recovery Run 6,Long Run 9
+Marathon,2,8,Foundation Run 5,Fast Finish Run 9,Foundation Run 6,Foundation Run 6,Hill Repetition Run 8,Recovery Run 6,Long Run 11
+Marathon,2,9,REST,Fast Finish Run 6,Foundation Run 6,Foundation Run 5,Hill Repetition Run 6,Recovery Run 6,Long Run 5
+Marathon,2,10,Foundation Run 6,Cruise Interval Run 1,Recovery Run 6,Foundation Run 6,Short Interval Run 4,Recovery Run 6,Long Run 13
+Marathon,2,11,Recovery Run 6,Tempo Run 4,Recovery Run 6,Foundation Run 6,Short Interval Run 5,Recovery Run 6,Long Run 15
+Marathon,2,12,REST,Tempo Run 3,Recovery Run 5,Foundation Run 5,Short Interval Run 3,Recovery Run 5,Long Run 7
+Marathon,2,13,Foundation Run 6,Tempo Run 5,Recovery Run 6,Foundation Run 6,Long Interval Run 3,Recovery Run 6,Long Run with Speed Play 4
+Marathon,2,14,Recovery Run 6,Cruise Interval Run 2,Recovery Run 6,Foundation Run 6,Long Interval Run 5,Recovery Run 6,Long Run with Fast Finish 4
+Marathon,2,15,REST,Tempo Run 4,Recovery Run 5,Foundation Run 5,Long Interval Run 2,Recovery Run 5,Marathon Simulator Run
+Marathon,2,16,Recovery Run 6,Tempo Run 6,Recovery Run 6,Foundation Run 6,Mixed Interval Run 2,Recovery Run 6,Long Run with Speed Play 5
+Marathon,2,17,Recovery Run 5,Cruise Interval Run 1,Foundation Run 4,Foundation Run 4,Mixed Interval Run 1,Recovery Run 4,Long Run with Fast Finish 1
+Marathon,2,18,REST,Fast Finish Run 4,Foundation Run 3,Foundation Run 3,Speed Play Run 3,Recovery Run 1,Marathon
+Marathon,3,1,Foundation Run 6,Fast Finish Run 6,Foundation Run 6,Foundation Run 6,Speed Play Run 6,Foundation Run 6,Long Run 5
+Marathon,3,1,,Foundation Run 3,,,,,
+Marathon,3,2,Foundation Run 6,Fast Finish Run 6,Foundation Run 6,Foundation Run 6,Speed Play Run 10,Foundation Run 6,Long Run 7
+Marathon,3,2,,Foundation Run 3,,Foundation Run 3,,,
+Marathon,3,3,REST,Fast Finish Run 6,Foundation Run 6,Foundation Run 6,Speed Play Run 8,Foundation Run 6,Long Run 5
+Marathon,3,3,,Foundation Run 3,,,,,
+Marathon,3,4,Foundation Run 6,Fast Finish Run 7,Foundation Run 6,Foundation Run 6,Hill Repetition Run 7,Recovery Run 6,Long Run 9
+Marathon,3,4,,Foundation Run 4,,Foundation Run 4,,,
+Marathon,3,5,Foundation Run 6,Fast Finish Run 8,Foundation Run 7,Foundation Run 6,Hill Repetition Run 8,Recovery Run 6,Long Run 11
+Marathon,3,5,,Foundation Run 4,,Foundation Run 4,,Foundation Run 4,
+Marathon,3,6,REST,Fast Finish Run 7,Foundation Run 6,Foundation Run 6,Hill Repetition Run 6,Recovery Run 6,Long Run 7
+Marathon,3,6,,Foundation Run 4,,Foundation Run 4,,,
+Marathon,3,7,Foundation Run 6,Fast Finish Run 9,Foundation Run 7,Foundation Run 6,Hill Repetition Run 9,Recovery Run 6,Long Run 13
+Marathon,3,7,,Foundation Run 5,,Foundation Run 5,,Foundation Run 5,
+Marathon,3,8,Foundation Run 6,Fast Finish Run 10,Foundation Run 7,Foundation Run 6,Hill Repetition Run 11,Recovery Run 6,Long Run 15
+Marathon,3,8,,Foundation Run 6,,Foundation Run 6,,Foundation Run 6,
+Marathon,3,9,REST,Fast Finish Run 9,Foundation Run 6,Foundation Run 5,Hill Repetition Run 6,Recovery Run 5,Long Run 8
+Marathon,3,9,,Foundation Run 5,,Foundation Run 5,,Foundation Run 5,
+Marathon,3,10,Foundation Run 6,Cruise Interval Run 2,Foundation Run 8,Foundation Run 6,Short Interval Run 7,Recovery Run 6,Long Run with Speed Play 4
+Marathon,3,10,,Recovery Run 6,,Foundation Run 6,,Foundation Run 6,
+Marathon,3,11,Recovery Run 6,Tempo Run 8,Foundation Run 8,Foundation Run 6,Short Interval Run 8,Recovery Run 6,Long Run with Fast Finish 4
+Marathon,3,11,,Recovery Run 6,,Foundation Run 6,,Foundation Run 6,
+Marathon,3,12,REST,Cruise Interval Run 2,Foundation Run 6,Foundation Run 5,Short Interval Run 4,Recovery Run 5,Long Run with Speed Play 3
+Marathon,3,12,,Recovery Run 5,,Foundation Run 5,,Foundation Run 5,
+Marathon,3,13,Recovery Run 6,Cruise Interval Run 3,Foundation Run 9,Foundation Run 6,Long Interval Run 6,Recovery Run 6,Long Run with Speed Play 5
+Marathon,3,13,,Recovery Run 6,,Foundation Run 6,,Foundation Run 6,
+Marathon,3,14,Recovery Run 6,Tempo Run 9,Foundation Run 9,Foundation Run 6,Long Interval Run 7,Recovery Run 6,Long Run with Speed Play 6
+Marathon,3,14,,Recovery Run 6,,Foundation Run 6,,Foundation Run 6,
+Marathon,3,15,REST,Tempo Run 4,Foundation Run 6,Foundation Run 5,Long Interval Run 4,Recovery Run 5,Marathon Simulator Run
+Marathon,3,15,,Recovery Run 5,,Foundation Run 5,,Foundation Run 5,
+Marathon,3,16,Recovery Run 6,Cruise Interval Run 4,Foundation Run 9,Foundation Run 6,Mixed Interval Run 4,Recovery Run 6,Long Run with Fast Finish 6
+Marathon,3,16,,Recovery Run 6,,Foundation Run 6,,Foundation Run 6,
+Marathon,3,17,Recovery Run 5,Tempo Run 6,Foundation Run 5,Foundation Run 5,Mixed Interval Run 2,Recovery Run 4,Long Run with Speed Play 3
+Marathon,3,17,,Recovery Run 5,,Foundation Run 4,,Foundation Run 4,
+Marathon,3,18,REST,Fast Finish Run 6,Foundation Run 5,Foundation Run 4,Speed Play Run 5,Recovery Run 2,Marathon
+Ultra Marathon,1,1,REST,Long Run 1,Speed Play Run 2,Long Run 1,REST,Long Run 6,B2B Long Run 1
+Ultra Marathon,1,2,REST,Long Run 1,Hill Repetition Run 2,Long Run 1,REST,Long Run 8,B2B Long Run 2
+Ultra Marathon,1,3,REST,Long Run 1,Speed Play Run 3,Long Run 2,REST,Long Run 10,B2B Long Run 2
+Ultra Marathon,1,4,REST,Recovery Run 5,Recovery Run 3,Recovery Run 7,REST,Long Run 5,Active Recovery
+Ultra Marathon,1,5,REST,Long Run 2,Hill Repetition Run 3,Long Run 2,REST,Long Run 12,B2B Long Run 3
+Ultra Marathon,1,6,REST,Long Run 2,Speed Play Run 4,Long Run 2,REST,Long Run 12,B2B Long Run 3
+Ultra Marathon,1,7,REST,Long Run 2,Hill Repetition Run 4,Long Run 2,REST,Long Run 14,B2B Long Run 4
+Ultra Marathon,1,8,REST,Recovery Run 7,Recovery Run 3,Recovery Run 7,REST,Long Run 7,Active Recovery
+Ultra Marathon,1,9,REST,Long Run 3,Speed Play Run 4,Long Run 3,REST,Long Run 16,B2B Long Run 5
+Ultra Marathon,1,10,REST,Long Run 5,Hill Repetition Run 4,Long Run 3,REST,Long Run 7,B2B Long Run 6
+Ultra Marathon,1,11,REST,Long Run 3,Speed Play Run 4,Long Run 3,REST,Long Run 17,B2B Long Run 5
+Ultra Marathon,1,12,REST,Long Run 1,Recovery Run 5,Long Run 1,REST,Long Run 9,Active Recovery
+Ultra Marathon,1,13,REST,Long Run 5,Hill Repetition Run 4,Long Run 3,REST,Long Run 16,B2B Long Run 6
+Ultra Marathon,1,14,REST,Long Run 7,Speed Play Run 4,Long Run 5,REST,Long Run 9,B2B Long Run 7
+Ultra Marathon,1,15,REST,Long Run 5,Hill Repetition Run 5,Long Run 3,REST,Long Run 18,B2B Long Run 6
+Ultra Marathon,1,16,REST,Long Run 2,Recovery Run 5,Long Run 2,REST,Long Run 9,Active Recovery
+Ultra Marathon,1,17,REST,Long Run 5,Recovery Run 7,Long Run 3,REST,Long Run 15,B2B Long Run 8
+Ultra Marathon,1,18,REST,Long Run 7,Long Run 3,Long Run 5,REST,Long Run 17,B2B Long Run 5
+Ultra Marathon,1,19,REST,Long Run 3,Recovery Run 5,Long Run 3,REST,Long Run 9,Active Recovery
+Ultra Marathon,1,20,REST,Long Run 7,Recovery Run 5,Long Run 1,REST,Long Run 19,B2B Long Run 1
+Ultra Marathon,1,21,REST,Long Run 9,Long Run 3,Long Run 5,REST,Long Run 11,B2B Long Run 7
+Ultra Marathon,1,22,REST,Long Run 5,Long Run 1,Long Run 3,REST,Long Run 13,B2B Long Run 1
+Ultra Marathon,1,23,REST,Long Run 3,Recovery Run 5,Long Run 3,REST,Long Run 5,B2B Long Run 1
+Ultra Marathon,1,24,REST,Recovery Run 5,REST,Foundation Run 3,REST,Ultra Marathon,

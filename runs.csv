@@ -1,0 +1,138 @@
+Run_Key,Run_Description
+Recovery Run 1,20 minutes in Zone 1
+Recovery Run 2,25 minutes in Zone 1
+Recovery Run 3,30 minutes in Zone 1
+Recovery Run 4,35 minutes in Zone 1
+Recovery Run 5,40 minutes in Zone 1
+Recovery Run 6,45 minutes in Zone 1
+Recovery Run 7,50 minutes in Zone 1
+Recovery Run 8,55 minutes in Zone 1
+B2B Long Run 1,60 minutes free running
+B2B Long Run 2,70 minutes free running
+B2B Long Run 3,80 minutes free running
+B2B Long Run 4,90 minutes free running
+B2B Long Run 5,105 minutes free running
+B2B Long Run 6,120 minutes free running
+B2B Long Run 7,150 minutes free running
+B2B Long Run 8,180 minutes free running
+Foundation Run 1,(20:00) 5 minutes in Zone 1 10 minutes in Zone 2 5 minutes in Zone 1
+Foundation Run 2,(25:00) 5 minutes in Zone 1 15 minutes in Zone 2 5 minutes in Zone 1
+Foundation Run 3,(30:00) 5 minutes in Zone 1 20 minutes in Zone 2 5 minutes in Zone 1
+Foundation Run 4,(35:00) 5 minutes in Zone 1 25 minutes in Zone 2 5 minutes in Zone 1
+Foundation Run 5,(40:00) 5 minutes in Zone 1 30 minutes in Zone 2 5 minutes in Zone 1
+Foundation Run 6,(45:00) 5 minutes in Zone 1 35 minutes in Zone 2 5 minutes in Zone 1
+Foundation Run 7,(50:00) 5 minutes in Zone 1 40 minutes in Zone 2 5 minutes in Zone 1
+Foundation Run 8,(55:00) 5 minutes in Zone 1 45 minutes in Zone 2 5 minutes in Zone 1
+Foundation Run 9,(60:00) 5 minutes in Zone 1 50 minutes in Zone 2 5 minutes in Zone 1
+Long Run 1,(6 miles) 1 mile in Zone 1 4.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 2,(7 miles) 1 mile in Zone 1 5.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 3,(8 miles) 1 mile in Zone 1 6.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 4,(9 miles) 1 mile in Zone 1 7.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 5,(10 miles) 1 mile in Zone 1 8.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 6,(11 miles) 1 mile in Zone 1 9.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 7,(12 miles) 1 mile in Zone 1 10.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 8,(13 miles) 1 mile in Zone 1 11.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 9,(14 miles) 1 mile in Zone 1 12.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 10,(15 miles) 1 mile in Zone 1 13.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 11,(16 miles) 1 mile in Zone 1 14.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 12,(17 miles) 1 mile in Zone 1 15.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 13,(18 miles) 1 mile in Zone 1 16.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 14,(19 miles) 1 mile in Zone 1 17.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 15,(20 miles) 1 mile in Zone 1 18.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 16,(22 miles) 1 mile in Zone 1 20.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 17,(24 miles) 1 mile in Zone 1 22.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 18,(26 miles) 1 mile in Zone 1 24.5 miles in Zone 2 0.5 mile in Zone 1
+Long Run 19,(31 miles) 1 mile in Zone 1 29.5 miles in Zone 2 0.5 mile in Zone 1
+Fast Finish Run 1,(25:00) 5 minutes Zone 1 15 minutes Zone 2 5 minutes Zone 3
+Fast Finish Run 2,(30:00) 5 minutes Zone 1 20 minutes Zone 2 5 minutes Zone 3
+Fast Finish Run 3,(35:00) 5 minutes Zone 1 20 minutes Zone 2 10 minutes Zone 3
+Fast Finish Run 4,(40:00) 5 minutes Zone 1 25 minutes Zone 2 10 minutes Zone 3
+Fast Finish Run 5,(42:00) 5 minutes Zone 1 25 minutes Zone 2 12 minutes Zone 3
+Fast Finish Run 6,(47:00) 5 minutes Zone 1 30 minutes Zone 2 12 minutes Zone 3
+Fast Finish Run 7,(52:00) 5 minutes Zone 1 35 minutes Zone 2 12 minutes Zone 3
+Fast Finish Run 8,(55:00) 5 minutes Zone 1 35 minutes Zone 2 15 minutes Zone 3
+Fast Finish Run 9,(60:00) 5 minutes Zone 1 40 minutes Zone 2 15 minutes Zone 3
+Fast Finish Run 10,(65:00) 5 minutes Zone 1 45 minutes Zone 2 15 minutes Zone 3
+Tempo Run 1,(35:00) 5 minutes Zone 1 5 minutes Zone 2 15 minutes Zone 3 5 minutes Zone 2 5 minutes Zone 1
+Tempo Run 2,(38:00) 5 minutes Zone 1 5 minutes Zone 2 18 minutes Zone 3 5 minutes Zone 2 5 minutes Zone 1
+Tempo Run 3,(40:00) 5 minutes Zone 1 5 minutes Zone 2 20 minutes Zone 3 5 minutes Zone 2 5 minutes Zone 1
+Tempo Run 4,(44:00) 5 minutes Zone 1 5 minutes Zone 2 24 minutes Zone 3 5 minutes Zone 2 5 minutes Zone 1
+Tempo Run 5,(48:00) 5 minutes Zone 1 5 minutes Zone 2 28 minutes Zone 3 5 minutes Zone 2 5 minutes Zone 1
+Tempo Run 6,(50:00) 5 minutes Zone 1 5 minutes Zone 2 30 minutes Zone 3 5 minutes Zone 2 5 minutes Zone 1
+Tempo Run 7,(52:00) 5 minutes Zone 1 5 minutes Zone 2 32 minutes Zone 3 5 minutes Zone 2 5 minutes Zone 1
+Tempo Run 8,(56:00) 5 minutes Zone 1 5 minutes Zone 2 36 minutes Zone 3 5 minutes Zone 2 5 minutes Zone 1
+Tempo Run 9,(60:00) 5 minutes Zone 1 5 minutes Zone 2 40 minutes Zone 3 5 minutes Zone 2 5 minutes Zone 1
+Tempo Run 10,(65:00) 5 minutes Zone 1 5 minutes Zone 2 45 minutes Zone 3 5 minutes Zone 2 5 minutes Zone 1
+Cruise Interval Run 1,(52:00) 5 minutes Zone 1 5 minutes Zone 2 4 x (5 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2 5 minutes Zone 1
+Cruise Interval Run 2,(64:00) 5 minutes Zone 1 5 minutes Zone 2 4 x (8 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2 5 minutes Zone 1
+Cruise Interval Run 3,(72:00) 5 minutes Zone 1 5 minutes Zone 2 4 x (10 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2 5 minutes Zone 1
+Cruise Interval Run 4,(80:00) 5 minutes Zone 1 5 minutes Zone 2 4 x (12 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2 5 minutes Zone 1
+Cruise Interval Run 5,(92:00) 5 minutes Zone 1 5 minutes Zone 2 4 x (15 minutes Zone 3/3 minutes Zone 1) 5 minutes Zone 2 5 minutes Zone 1
+Long Run with Speed Play 1,(10 miles) 0.5 mile Zone 1 1 mile Zone 2 8 x (0.25 mile Zone 3/0.75 mile Zone 2) 0.5 mile Zone 1
+Long Run with Speed Play 2,(12 miles) 0.5 mile Zone 1 1 mile Zone 2 10 x (0.25 mile Zone 3/0.75 mile Zone 2) 0.5 mile Zone 1
+Long Run with Speed Play 3,(14 miles) 0.5 mile Zone 1 1 mile Zone 2 12 x (0.25 mile Zone 3/0.75 mile Zone 2) 0.5 mile Zone 1
+Long Run with Speed Play 4,(16 miles) 0.5 mile Zone 1 1 mile Zone 2 14 x (0.25 mile Zone 3/0.75 mile Zone 2) 0.5 mile Zone 1
+Long Run with Speed Play 5,(18 miles) 0.5 mile Zone 1 1 mile Zone 2 16 x (0.25 mile Zone 3/0.75 mile Zone 2) 0.5 mile Zone 1
+Long Run with Speed Play 6,(20 miles) 0.5 mile Zone 1 1 mile zone 2 18 x (0.25 mile Zone 3/0.75 mile Zone 2) 0.5 mile Zone 1
+Long Run with Fast Finish 1,(10 miles) 0.5 mile Zone 1 8.5 miles Zone 2 1 mile Zone 3
+Long Run with Fast Finish 2,(12 miles) 0.5 mile Zone 1 10.5 miles Zone 2 1 mile Zone 3
+Long Run with Fast Finish 3,(14 miles) 0.5 mile Zone 1 12 miles Zone 2 1.5 miles Zone 3
+Long Run with Fast Finish 4,(16 miles) 0.5 mile Zone 1 14 miles Zone 2 1.5 miles Zone 3
+Long Run with Fast Finish 5,(18 miles) 0.5 mile Zone 1 15.5 miles Zone 2 2 miles Zone 3
+Long Run with Fast Finish 6,(20 miles) 0.5 mile Zone 1 17.5 miles Zone 2 2 miles Zone 3
+Speed Play Run 1,(27:00) 5 minutes Zone 1 5 minutes Zone 2 3 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1
+Speed Play Run 2,(30:00) 5 minutes Zone 1 5 minutes Zone 2 5 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1
+Speed Play Run 3,(31:00) 5 minutes Zone 1 5 minutes Zone 2 4 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1
+Speed Play Run 4,(33:00) 5 minutes Zone 1 5 minutes Zone 2 6 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1
+Speed Play Run 5,(35:00) 5 minutes Zone 1 5 minutes Zone 2 5 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1
+Speed Play Run 6,(36:00) 5 minutes Zone 1 5 minutes Zone 2 7 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1
+Speed Play Run 7,(39:00) 5 minutes Zone 1 5 minutes Zone 2 6 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1
+Speed Play Run 8,(39:00) 5 minutes Zone 1 5 minutes Zone 2 8 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1
+Speed Play Run 9,(42:00) 5 minutes Zone 1 5 minutes Zone 2 9 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1
+Speed Play Run 10,(43:00) 5 minutes Zone 1 5 minutes Zone 2 7 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1
+Speed Play Run 11,(45:00) 5 minutes Zone 1 5 minutes Zone 2 10 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1
+Speed Play Run 12,(47:00) 5 minutes Zone 1 5 minutes Zone 2 8 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1
+Speed Play Run 13,(51:00) 5 minutes Zone 1 5 minutes Zone 2 9 x (2 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1
+Speed Play Run 14,(51:00) 5 minutes Zone 1 5 minutes Zone 2 12 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1
+Hill Repetition Run 1,(27:00) 5 minutes Zone 1 5 minutes Zone 2 6 x (30 seconds Zone 5 uphill/90 seconds Zone 1) 5 minutes Zone 1
+Hill Repetition Run 2,(31:00) 5 minutes Zone 1 5 minutes Zone 2 8 x (30 seconds Zone 5 uphill/90 seconds Zone 1) 5 minutes Zone 1
+Hill Repetition Run 3,(33:00) 5 minutes Zone 1 5 minutes Zone 2 6 x (1 minute Zone 5 uphill/2 minutes Zone 1) 5 minutes Zone 1
+Hill Repetition Run 4,(35:00) 5 minutes Zone 1 5 minutes Zone 2 10 x (30 seconds Zone 5 uphill/90 seconds Zone 1) 5 minutes Zone 1
+Hill Repetition Run 5,(39:00) 5 minutes Zone 1 5 minutes Zone 2 12 x (30 seconds Zone 5 uphill/90 seconds Zone 1) 5 minutes Zone 1
+Hill Repetition Run 6,(39:00) 5 minutes Zone 1 5 minutes Zone 2 8 x (1 minute Zone 5 uphill/2 minutes Zone 1) 5 minutes Zone 1
+Hill Repetition Run 7,(39:00) 5 minutes Zone 1 5 minutes Zone 2 6 x (1.5 minutes Zone 5 uphill/2.5 minutes Zone 1) 5 minutes Zone 1
+Hill Repetition Run 8,(45:00) 5 minutes Zone 1 5 minutes Zone 2 10 x (1 minute Zone 5 uphill/2 minutes Zone 1) 5 minutes Zone 1
+Hill Repetition Run 9,(47:00) 5 minutes Zone 1 5 minutes Zone 2 8 x (1.5 minutes Zone 5 uphill/2.5 minutes Zone 1) 5 minutes Zone 1
+Hill Repetition Run 10,(51:00) 5 minutes Zone 1 5 minutes Zone 2 12 x (1 minute Zone 5 uphill/2 minutes Zone 1) 5 minutes Zone 1
+Hill Repetition Run 11,(55:00) 5 minutes Zone 1 5 minutes Zone 2 10 x (1.5 minutes Zone 5 uphill/2.5 minutes Zone 1) 5 minutes Zone 1
+Hill Repetition Run 12,(63:00) 5 minutes Zone 1 5 minutes Zone 2 12 x (1.5 minutes Zone 5 uphill/2.5 minutes Zone 1) 5 minutes Zone 1
+Short Interval Run 1,(33:00) 5 minutes Zone 1 5 minutes Zone 2 6 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1
+Short Interval Run 2,(39:00) 5 minutes Zone 1 5 minutes Zone 2 8 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1
+Short Interval Run 3,(39:00) 5 minutes Zone 1 5 minutes Zone 2 6 x (1.5 minutes Zone 5/2.5 minutes Zone 1) 5 minutes Zone 1
+Short Interval Run 4,(45:00) 5 minutes Zone 1 5 minutes Zone 2 10 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1
+Short Interval Run 5,(47:00) 5 minutes Zone 1 5 minutes Zone 2 8 x (1.5 minutes Zone 5/2.5 minutes Zone 1) 5 minutes Zone 1
+Short Interval Run 6,(51:00) 5 minutes Zone 1 5 minutes Zone 2 12 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1
+Short Interval Run 7,(55:00) 5 minutes Zone 1 5 minutes Zone 2 10 x (1.5 minutes Zone 5/2.5 minutes Zone 1) 5 minutes Zone 1
+Short Interval Run 8,(63:00) 5 minutes Zone 1 5 minutes Zone 2 12 x (1.5 minutes Zone 5/2.5 minutes Zone 1) 5 minutes Zone 1
+Long Interval Run 1,(30:00) 5 minutes Zone 1 5 minutes Zone 2 3 x (3 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1
+Long Interval Run 2,(35:00) 5 minutes Zone 1 5 minutes Zone 2 4 x (3 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1
+Long Interval Run 3,(39:00) 5 minutes Zone 1 5 minutes Zone 2 3 x (5 minutes Zone 4/3 minutes Zone 1) 5 minutes Zone 1
+Long Interval Run 4,(40:00) 5 minutes Zone 1 5 minutes Zone 2 5 x (3 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1
+Long Interval Run 5,(45:00) 5 minutes Zone 1 5 minutes Zone 2 6 x (3 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1
+Long Interval Run 6,(47:00) 5 minutes Zone 1 5 minutes Zone 2 4 x (5 minutes Zone 4/3 minutes Zone 1) 5 minutes Zone 1
+Long Interval Run 7,(55:00) 5 minutes Zone 1 5 minutes Zone 2 5 x (5 minutes Zone 4/3 minutes Zone 1) 5 minutes Zone 1
+Long Interval Run 8,(63:00) 5 minutes Zone 1 5 minutes Zone 2 6 x (5 minutes Zone 4/3 minutes Zone 1) 5 minutes Zone 1
+Long Interval Run 9,(71:00) 5 minutes Zone 1 5 minutes Zone 2 7 x (5 minutes Zone 4/3 minutes Zone 1) 5 minutes Zone 1
+Long Interval Run 10,(79:00) 5 minutes Zone 1 5 minutes Zone 2 8 x (5 minutes Zone 4/3 minutes Zone 1) 5 minutes Zone 1
+Mixed Interval Run 1,(36:00) 5 minutes Zone 1 5 minutes Zone 2 1 minute Zone 5 2 minutes Zone 1 3 minutes Zone 4 2 minutes Zone 1 5 minutes Zone 3 2 minutes Zone 1 3 minutes Zone 4 2 minutes Zone 1 1 minute Zone 5 5 minutes Zone 1
+Mixed Interval Run 2,(46:00) 5 minutes Zone 1 5 minutes Zone 2 1.5 minutes Zone 5 2 minutes Zone 1 5 minutes Zone 4 2 minutes Zone 1 10 minutes Zone 3 2 minutes Zone 1 5 minutes Zone 4 2 minutes Zone 1 1.5 minute Zone 5 5 minutes Zone 1
+Mixed Interval Run 3,(59:00) 5 minutes Zone 1 5 minutes Zone 2 2 x (1 minute Zone 5/ 2 minutes Zone 1) 2 x (3 minutes Zone 4/ 2 minutes Zone 1) 10 minutes Zone 3 2 minutes Zone 1 2 x (3 minutes Zone 4/ 2 minutes Zone 1) 2 x (1 minute Zone 5/2 minutes Zone 1) 5 minutes Zone 1
+Mixed Interval Run 4,(71:00) 5 minutes Zone 1 5 minutes Zone 2 2 x (1.5 minutes Zone 5/2.5 minutes Zone 1) 2 x (5 minutes Zone 4/2 minutes Zone 1) 10 minutes Zone 3 2 minutes Zone 1 2 x (1.5 minutes Zone 5/2 minutes Zone 1) 2 x (5 minutes Zone 4/2 minutes Zone 1) 5 minutes Zone 1
+REST,Don't Do Stuff
+Marathon Simulator Run,Simulate Crushing It
+Active Recovery,Swim/Bike/Hike/Yoga/Elliptical/Rest
+5K Race,Crush It
+10K Race,Crush It
+Half Marathon,Crush It
+Marathon,Crush It
+Ultra Marathon,Crush It
